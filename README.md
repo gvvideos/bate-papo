@@ -2,9 +2,9 @@
 Bate papo, bate papo adulto, bate papo adulto com homem, bate papo adulto com homem pelado, bate papo adulto com homem batendo punheta.
 # 🚀 Nome do Projeto
 
-> Uma breve descrição do que o projeto faz, seu objetivo e valor principal.
+> Bate papo, bate papo adulto, bate papo adulto com homem, bate papo adulto com homem pelado, bate papo adulto com homem batendo punheta.
 
-![Banner do Projeto ou GIF de demonstração](link_da_imagem_ou_gif.png)
+![pasta/videos/gvvídeos-2.jpg](link_da_imagem_ou_gif.png)
 
 ## 📋 Pré-requisitos
 
