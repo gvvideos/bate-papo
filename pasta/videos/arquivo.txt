@@ -1,0 +1,1 @@
+pasta/vídeos/arquivo.txt
