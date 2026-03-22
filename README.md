@@ -3,7 +3,7 @@ Bate papo adulto, bate papo adulto com homem, bate papo adulto com homem pelado,
 
 > Bate papo adulto, bate papo adulto com homem, bate papo adulto com homem pelado, bate papo adulto com homem batendo punheta.
 
-![gvvídeos](pasta/videos/gvvídeos.jpg)
+![gvvídeos](pasta/videos/Bate-papo.png)
 
 ## 📋 Pré-requisitos
 
