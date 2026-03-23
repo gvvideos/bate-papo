@@ -151,7 +151,44 @@ h6 {  tamanho da fonte : 1,0 em ;
     
 
 
-    
+
+
+
+
+
+/* Estilização do botão Pix */
+#btnPix {
+  background-color: #32bcad; /* Cor oficial do Pix */
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 20px auto; /* Centraliza o botão */ }
+
+/* Efeito ao passar o mouse */
+#btnPix:hover {
+  background-color: #2a9d91;
+  transform: translateY(-2px); /* Sobe levemente */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); }
+
+/* Efeito ao clicar */
+#btnPix:active {
+  transform: translateY(0); }
+
+
+
+
+
+
+
+
+
     
     
     
